@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1591513948 source:c:\users\user\desktop\proiect_p2\main.cpp
+	<iostream>
+	<fstream>
+	"Vehicul.h"
+	"Autoturism.h"
+	"Camion.h"
+	"Autobuz.h"
+	<list>
+	<ctime>
+	<stdio.h>
+	<sstream>
+	<map>
+
+1591513926 c:\users\user\desktop\proiect_p2\include\vehicul.h
+	<iostream>
+	<string>
+
+1591512175 source:c:\users\user\desktop\proiect_p2\src\vehicul.cpp
+	"Vehicul.h"
+
+1591512871 c:\users\user\desktop\proiect_p2\include\autoturism.h
+	"Vehicul.h"
+
+1591513345 c:\users\user\desktop\proiect_p2\include\camion.h
+	"Vehicul.h"
+
+1591512901 source:c:\users\user\desktop\proiect_p2\src\autoturism.cpp
+	"Autoturism.h"
+
+1591513345 source:c:\users\user\desktop\proiect_p2\src\camion.cpp
+	"Camion.h"
+
+1591512695 c:\users\user\desktop\proiect_p2\include\autobuz.h
+	"Vehicul.h"
+
+1591512769 source:c:\users\user\desktop\proiect_p2\src\autobuz.cpp
+	"Autobuz.h"
+
+1591510447 source:d:\proiect p2 - flota de vehicule\proiect_p2\main.cpp
+	<iostream>
+	<fstream>
+	"Vehicul.h"
+	"Autoturism.h"
+	"Camion.h"
+	"Autobuz.h"
+	<list>
+	<ctime>
+	<stdio.h>
+	<sstream>
+	<map>
+
+1591510326 d:\proiect p2 - flota de vehicule\proiect_p2\include\vehicul.h
+	<iostream>
+	<string>
+
+1591509271 d:\proiect p2 - flota de vehicule\proiect_p2\include\autoturism.h
+	"Vehicul.h"
+
+1591509745 d:\proiect p2 - flota de vehicule\proiect_p2\include\camion.h
+	"Vehicul.h"
+
+1591509095 d:\proiect p2 - flota de vehicule\proiect_p2\include\autobuz.h
+	"Vehicul.h"
+
+1591509169 source:d:\proiect p2 - flota de vehicule\proiect_p2\src\autobuz.cpp
+	"Autobuz.h"
+
+1591509301 source:d:\proiect p2 - flota de vehicule\proiect_p2\src\autoturism.cpp
+	"Autoturism.h"
+
+1591509745 source:d:\proiect p2 - flota de vehicule\proiect_p2\src\camion.cpp
+	"Camion.h"
+
+1591508575 source:d:\proiect p2 - flota de vehicule\proiect_p2\src\vehicul.cpp
+	"Vehicul.h"
+

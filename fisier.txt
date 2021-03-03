@@ -1,0 +1,5 @@
+18,autoturism,TM70UVT,30/5/2013,2143,5,1,Mercedes-Benz GLC220,4
+54,camion,TM02PTM,28/10/2020,4485,2,0,IVECO Eurocargo,256
+89,autobuz,TM51CLR,25/10/2020,2700,7,1,Menarini Citymood,18
+13,autobuz,TM26VCM,21/12/2021,3900,10,1,Irizar-Scania,36
+26,autoturism,TM13VNR,1/4/2017,4951,2,1,Ford Mustang,2
